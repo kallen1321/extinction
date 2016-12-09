@@ -1,3 +1,14 @@
+body {
+	background-color: orange;
+}
+
+#wrapper {
+	background-color: #fff;
+	width: 70%;
+	margin: 0 auto;
+	padding: 5%;
+}
+
 h1 {
 font-family: 'Merriweather', serif;
 }
